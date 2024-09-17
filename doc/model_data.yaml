@@ -1,0 +1,4 @@
+backbone: resnet
+out_stride: 16
+model_path: ./checkpoint.pth.tar
+crop_size: 513
